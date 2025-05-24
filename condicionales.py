@@ -8,4 +8,4 @@ if usuario == "admin" and clave == "1234":
 else:
     print("Acceso denegado")
 
-print("Esto es una modificación")
+print("Esto es una modificación nueva")
